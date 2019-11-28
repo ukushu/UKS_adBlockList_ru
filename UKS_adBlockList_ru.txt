@@ -15,6 +15,8 @@
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
 
 ||advast.sibnet.ru*
+||video.sibnet.ru/counter.php*
+||g.adspeed.net*
 ||ad.adriver.ru*
 ||inv-nets.admixer.net*
 ||inv-nets-eu.admixer.net*
@@ -31,7 +33,21 @@
 ||i.ytimg.com*
 ||ytimg.com*
 ||fonts.gstatic.com*
+||instreamvideo.ru*
+||sibtel.adriver.ru*
+||pub-eu.p.otm-r.com*
+||ad1.sibnet.ru*
+||ad2.sibnet.ru*
+||ad3.sibnet.ru*
+||ad4.sibnet.ru*
+||ad5.sibnet.ru*
+||ad6.sibnet.ru*
+||ad7.sibnet.ru*
+||ad8.sibnet.ru*
+||ad9.sibnet.ru*
+
 
 
 ||stats.g.doubleclick.net*
 ||googleads.g.doubleclick.net*
+||counter.sibnet.ru*
