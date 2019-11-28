@@ -17,5 +17,16 @@
 ||advast.sibnet.ru^
 ||vsdcdn.com^
 ||cdn.jsdelivr.net^
+||4736.in^
+||s.ytimg.com^
+||mtrcss.com^
+||vsdcdn.com^
+||mtrcss.com^
+||yt3.ggpht.com^
+||ggpht.com^
+||i.ytimg.com^
+||ytimg.com^
+
 
 ||stats.g.doubleclick.net^
+||googleads.g.doubleclick.net^
