@@ -51,3 +51,6 @@
 ||stats.g.doubleclick.net*
 ||googleads.g.doubleclick.net*
 ||counter.sibnet.ru*
+
+
+||www.google-analytics.com^$script
