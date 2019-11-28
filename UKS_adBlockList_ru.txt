@@ -16,6 +16,9 @@
 
 ||advast.sibnet.ru*
 ||ad.adriver.ru*
+||inv-nets.admixer.net*
+||inv-nets-eu.admixer.net*
+||x.bidswitch.net*
 ||vsdcdn.com*
 ||cdn.jsdelivr.net*
 ||4736.in*
