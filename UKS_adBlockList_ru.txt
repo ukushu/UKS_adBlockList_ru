@@ -14,5 +14,8 @@
 !-----------------General tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
 
-||advast.sibnet.ru^$third-party
-||vsdcdn.com^$third-party
+||advast.sibnet.ru^
+||vsdcdn.com^
+||cdn.jsdelivr.net^
+
+||stats.g.doubleclick.net^
