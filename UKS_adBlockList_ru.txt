@@ -1,1 +1,17 @@
+[Adblock Plus 2.0]
+! Checksum: 3IDD8mt/PVrbmcVSC8EN+Q
+! Version: 201911280911
+! Title: UKS_adBlockList_ru
+! Last modified: 28 Nov 2019 09:11 UTC
+! Homepage: https://github.com/ukushu/UKS_adBlockList_ru
+!
+! *** UKS_adBlockList_ru.txt ***
+! Expires: 1 days (update frequency)
+!
+! Please report any unblocked tracking or problems
+! https://github.com/ukushu/UKS_adBlockList_ru/issues
+!
+!-----------------General tracking systems-----------------!
+! *** easylist:easyprivacy/easyprivacy_general.txt ***
+
 ||advast.sibnet.ru^$third-party
