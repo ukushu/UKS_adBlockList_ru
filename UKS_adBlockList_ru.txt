@@ -14,19 +14,20 @@
 !-----------------General tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
 
-||advast.sibnet.ru^
-||vsdcdn.com^
-||cdn.jsdelivr.net^
-||4736.in^
-||s.ytimg.com^
-||mtrcss.com^
-||vsdcdn.com^
-||mtrcss.com^
-||yt3.ggpht.com^
-||ggpht.com^
-||i.ytimg.com^
-||ytimg.com^
+||advast.sibnet.ru^$script,third-party
+||vsdcdn.com^$script,third-party
+||cdn.jsdelivr.net^$script,third-party
+||4736.in^$script,third-party
+||s.ytimg.com^$script,third-party
+||mtrcss.com^$script,third-party
+||vsdcdn.com^$script,third-party
+||mtrcss.com^$script,third-party
+||yt3.ggpht.com^$script,third-party
+||ggpht.com^$script,third-party
+||i.ytimg.com^$script,third-party
+||ytimg.com^$script,third-party
+||fonts.gstatic.com^$script,third-party
 
 
-||stats.g.doubleclick.net^
-||googleads.g.doubleclick.net^
+||stats.g.doubleclick.net^$script,third-party
+||googleads.g.doubleclick.net^$script,third-party
