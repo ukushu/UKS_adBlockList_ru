@@ -54,3 +54,6 @@
 
 
 ||www.google-analytics.com^$script
+
+pattern = "d[\d].c[\d].b[\d].a[\d].top.mail.ru" regexp "/sg"
+pattern = "facebook.com"  regexp "/sg"
