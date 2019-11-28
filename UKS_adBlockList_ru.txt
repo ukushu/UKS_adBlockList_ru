@@ -15,6 +15,7 @@
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
 
 ||advast.sibnet.ru*
+||ad.adriver.ru*
 ||vsdcdn.com*
 ||cdn.jsdelivr.net*
 ||4736.in*
