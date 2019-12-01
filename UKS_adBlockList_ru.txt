@@ -12,8 +12,6 @@
 
 
 ||www.favorit.com.ua^
-||advast.sibnet.ru*
-||video.sibnet.ru/counter.php*
 ||g.adspeed.net*
 ||ad.adriver.ru*
 ||inv-nets.admixer.net*
@@ -51,9 +49,12 @@
 ||ad8.sibnet.ru^
 ||ad9.sibnet.ru^
 ||advast.sibnet.ru^
+||video.sibnet.ru/counter.php*
 ||sibtel.adriver.ru^
 ||inv-nets.admixer.net^
 ||content.admixer.net^
+||counter.sibnet.ru^
+||stats.seedr.com^
 ###vjs-overlayclip-container-box
 ###vjs-overlayclip-box
 ##.vjs-overlayclip-box-close
