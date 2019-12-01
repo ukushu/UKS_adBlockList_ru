@@ -43,8 +43,10 @@
 ||ad7.sibnet.ru*
 ||ad8.sibnet.ru*
 ||ad9.sibnet.ru*
-#ampr_preloader !Sibnet player AD
 
+!Sibnet player AD
+div[class^="ampr_1"]
+div[id^="ampr_"]
 
 
 
