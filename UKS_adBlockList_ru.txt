@@ -50,6 +50,8 @@
 ||ad8.sibnet.ru^
 ||ad9.sibnet.ru^
 ###vjs-overlayclip-box
+##.vjs-related-carousel-button"
+###vjs-logobrand-image
 
 
 
