@@ -208,8 +208,26 @@
 !!!!!!!!!!!!!!!!!!!!!!!!
 
 
+!!!!!!!!!!!!!!!!!!!!!!!!
+!META player AD!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
+||acdn.meta.ua*
 
 
+##.preview-ban-wrapper
+###meta_code_video_embed
+##.vjs-title
+##.vjs-watermark-top-right
+###pl_adv_cont
+
+https://r/v2/bl.js?guid=72a618a8-05b9-11e8-ae50-002590d97638&request=initial
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+!END OF META player AD!!
+!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
