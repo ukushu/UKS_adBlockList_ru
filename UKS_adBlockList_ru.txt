@@ -49,6 +49,10 @@
 ||ad7.sibnet.ru^
 ||ad8.sibnet.ru^
 ||ad9.sibnet.ru^
+||advast.sibnet.ru^
+||sibtel.adriver.ru^
+||inv-nets.admixer.net^
+||content.admixer.net^
 ###vjs-overlayclip-container-box
 ###vjs-overlayclip-box
 ##.vjs-overlayclip-box-close
