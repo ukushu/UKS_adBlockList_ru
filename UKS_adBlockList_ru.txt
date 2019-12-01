@@ -55,6 +55,11 @@
 ||content.admixer.net^
 ||counter.sibnet.ru^
 ||stats.seedr.com^
+||yastatic.net^
+||ads.betweendigital.com^
+||clickiocdn.com^
+||engine.xoor.ru^
+||ad.adriver.ru^
 ###vjs-overlayclip-container-box
 ###vjs-overlayclip-box
 ##.vjs-overlayclip-box-close
