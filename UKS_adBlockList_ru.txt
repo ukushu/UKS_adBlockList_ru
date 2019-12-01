@@ -52,13 +52,20 @@ div[class="vjs-overlayclip-box-show"]
 div[class="vjs-control"]
 div[class="vjs-related-carousel-button"]
 
+a[href="https://murasaki.store?utm_source=yummyanime"]
+
+
+
+
+
+
+
+
+
+
 
 ||sg.bigmir.net^
 ||stat.bigmir.net^
-
-
-
-
 
 
 ||aalbc.advertserve.com^
