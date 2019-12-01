@@ -44,6 +44,10 @@
 ||ad8.sibnet.ru*
 ||ad9.sibnet.ru*
 
+||start.parimatch.com^
+||parimatch.com^
+
+
 !Sibnet player AD
 .ampr_1
 div[id$="ampr_"]
