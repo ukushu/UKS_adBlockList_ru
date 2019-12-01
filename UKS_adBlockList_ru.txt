@@ -56,15 +56,6 @@
 ###vjs-logobrand-image
 
 
-<iframe src="https://greedseed.world/frame/r.php?vid=x2ZcSkc4cDY" style="z-index:1;width:100%;height:100%;opacity:0;" id="player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-
-
-
-
-
-
-
 
 ||sg.bigmir.net^
 ||stat.bigmir.net^
