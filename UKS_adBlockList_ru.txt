@@ -47,8 +47,10 @@
 !Sibnet player AD
 div[class^="ampr_1"]
 div[id^="ampr_"]
-iframe[id="vjs-overlayclip-container-box"]
-iframe[class="vjs-overlayclip-box-show"]
+div[id="vjs-overlayclip-container-box"]
+div[class="vjs-overlayclip-box-show"]
+div[class="vjs-control"]
+div[class="vjs-related-carousel-button"]
 
 
 ||sg.bigmir.net^
