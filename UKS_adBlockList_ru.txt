@@ -53,7 +53,7 @@ div[id$="ampr_"]
 .vjs-related-carousel-button
 
 a[href$="murasaki.store"]
-
+||murasaki.store^$third-party
 
 
 
