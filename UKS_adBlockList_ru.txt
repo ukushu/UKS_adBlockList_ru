@@ -38,8 +38,9 @@
 ||start.parimatch.com^
 ||parimatch.com^
 
-
-!Sibnet player AD
+!!!!!!!!!!!!!!!!!!!!!!!!
+!Sibnet player AD!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
 ||ad1.sibnet.ru^
 ||ad2.sibnet.ru^
 ||ad3.sibnet.ru^
@@ -58,7 +59,9 @@
 ##.vjs-overlayclip-box-close
 ##.vjs-related-carousel-button
 ###vjs-logobrand-image
-
+!!!!!!!!!!!!!!!!!!!!!!!!
+!ENDOF Sibnet player AD!
+!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ||sg.bigmir.net^
