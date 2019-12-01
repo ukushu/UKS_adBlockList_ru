@@ -47,6 +47,7 @@
 !Sibnet player AD
 div[class^="ampr_1"]
 div[id^="ampr_"]
+#vjs-overlayclip-box
 
 
 
