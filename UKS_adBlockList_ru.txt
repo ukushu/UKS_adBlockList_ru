@@ -212,7 +212,7 @@
 !META player AD!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!
 ||acdn.meta.ua*
-||acdn.meta.ua^
+||dlm16.meta.ua*
 
 
 
