@@ -49,13 +49,6 @@
 
 
 !Sibnet player AD
-!##.ampr_1
-!###vjs-overlayclip-container-box
-!##.vjs-overlayclip-box-show
-!##.vjs-control
-!##.vjs-related-carousel-button
-!##a[href^="murasaki.store"]
-
 
 
 
