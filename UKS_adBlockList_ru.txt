@@ -45,12 +45,12 @@
 ||ad9.sibnet.ru*
 
 !Sibnet player AD
-div[class$="ampr_1"]
+.ampr_1
 div[id$="ampr_"]
-div[id$="vjs-overlayclip-container-box"]
-div[class$="vjs-overlayclip-box-show"]
-div[class$="vjs-control"]
-div[class$="vjs-related-carousel-button"]
+#vjs-overlayclip-container-box
+.vjs-overlayclip-box-show
+.vjs-control
+.vjs-related-carousel-button
 
 a[href$="murasaki.store"]
 
