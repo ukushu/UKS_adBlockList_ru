@@ -34,21 +34,22 @@
 ||instreamvideo.ru*
 ||sibtel.adriver.ru*
 ||pub-eu.p.otm-r.com*
-||ad1.sibnet.ru*
-||ad2.sibnet.ru*
-||ad3.sibnet.ru*
-||ad4.sibnet.ru*
-||ad5.sibnet.ru*
-||ad6.sibnet.ru*
-||ad7.sibnet.ru*
-||ad8.sibnet.ru*
-||ad9.sibnet.ru*
 
 ||start.parimatch.com^
 ||parimatch.com^
 
 
 !Sibnet player AD
+||ad1.sibnet.ru^
+||ad2.sibnet.ru^
+||ad3.sibnet.ru^
+||ad4.sibnet.ru^
+||ad5.sibnet.ru^
+||ad6.sibnet.ru^
+||ad7.sibnet.ru^
+||ad8.sibnet.ru^
+||ad9.sibnet.ru^
+###vjs-overlayclip-box
 
 
 
