@@ -52,12 +52,11 @@
 .ampr_1
 div[id$="ampr_"]
 ##vjs-overlayclip-container-box
-..vjs-overlayclip-box-show
-..vjs-control
-..vjs-related-carousel-button
+###vjs-overlayclip-box-show
+###vjs-control
+###vjs-related-carousel-button
 
-a[href$="murasaki.store"]
-||murasaki.store^$third-party
+##a[href^="murasaki.store"]
 
 
 
