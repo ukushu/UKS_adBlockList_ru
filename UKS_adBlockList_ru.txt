@@ -25,9 +25,9 @@
 ||mtrcss.com*
 ||yt3.ggpht.com*
 ||ggpht.com*
-||i.ytimg.com*
-||ytimg.com*
-||fonts.gstatic.com*
+! ||i.ytimg.com*
+! ||ytimg.com*
+! ||fonts.gstatic.com*
 ||instreamvideo.ru*
 ||sibtel.adriver.ru*
 ||pub-eu.p.otm-r.com*
