@@ -1845,8 +1845,8 @@ https://r/v2/bl.js?guid=72a618a8-05b9-11e8-ae50-002590d97638&request=initial
 ||tvn2.adocean.pl^
 ||ua.adocean.pl^
 
-||vpipi.com^
-||vsexshop.ru^
+||vpipi.com*
+||vsexshop.ru*
 ||uagde.adocean.pl^
 ||vbbg.adocean.pl^
 ||webgroundbg.adocean.pl^
