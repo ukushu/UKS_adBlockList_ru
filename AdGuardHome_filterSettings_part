@@ -1,0 +1,81 @@
+edit your AdGuardHome.yaml
+
+and add the following text instead "filters" block
+
+filters:
+- enabled: true
+  url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  name: AdGuard DNS filter
+  id: 1
+- enabled: true
+  url: https://adaway.org/hosts.txt
+  name: AdAway Default Blocklist
+  id: 2
+- enabled: true
+  url: https://www.malwaredomainlist.com/hostslist/hosts.txt
+  name: MalwareDomainList.com Hosts List
+  id: 4
+- enabled: true
+  url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+  name: Game Console Adblock List
+  id: 1602264437
+- enabled: true
+  url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+  name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
+  id: 1602264438
+- enabled: true
+  url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+  name: NoCoin Filter List
+  id: 1602264439
+- enabled: true
+  url: https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
+  name: The Big List of Hacked Malware Web Sites
+  id: 1602264440
+- enabled: true
+  url: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+  name: Spam404
+  id: 1602264441
+- enabled: true
+  url: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+  name: Scam Blocklist by DurableNapkin
+  id: 1602264442
+- enabled: true
+  url: https://easylist.to/easylist/easyprivacy.txt
+  name: EasyPrivacy
+  id: 1602264443
+- enabled: true
+  url: https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+  name: AdBlockWarningRemoval
+  id: 1602264444
+- enabled: true
+  url: https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
+  name: MalewareBlock
+  id: 1602264445
+- enabled: true
+  url: https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
+  name: Polish Ad list
+  id: 1602264446
+- enabled: true
+  url: https://download3.operacdn.com/res/servicefiles/adblocker/adlist/lists-ru-202010070710.txt
+  name: RU and UA Ad List
+  id: 1602264447
+- enabled: true
+  url: https://raw.githubusercontent.com/ukushu/UKS_adBlockList_ru/master/UKS_adBlock_counters_ru.txt
+  name: UKS_adBlock_counters_ru
+  id: 1602264448
+- enabled: true
+  url: https://raw.githubusercontent.com/ukushu/UKS_adBlockList_ru/master/UKS_adBlock_privacy_ru.txt
+  name: UKS_adBlock_privacy_ru
+  id: 1602264449
+- enabled: true
+  url: https://raw.githubusercontent.com/ukushu/UKS_adBlockList_ru/master/UKS_adBlockList_ru.txt
+  name: UKS_adBlockList_ru
+  id: 1602264450
+- enabled: true
+  url: https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+  name: AdBlockPlus
+  id: 1602264451
+- enabled: true
+  url: https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt
+  name: RuAdList+easylist
+  id: 1602264452
