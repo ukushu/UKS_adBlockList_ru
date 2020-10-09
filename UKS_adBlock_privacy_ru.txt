@@ -9,6 +9,7 @@
 ! https://github.com/ukushu/UKS_adBlockList_ru/issues
 
 
+||telemetry.dropbox.com*
 ||apurplevanllc.sitetracker.com^
 ||bhinton.sitetracker.com^
 ||bjake1.sitetracker.com^
