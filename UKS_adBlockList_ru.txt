@@ -19,14 +19,11 @@
 ||vsdcdn.com*
 ||cdn.jsdelivr.net*
 ||4736.in*
-||s.ytimg.com*
 ||mtrcss.com*
 ||vsdcdn.com*
 ||mtrcss.com*
 ||yt3.ggpht.com*
 ||ggpht.com*
-! ||i.ytimg.com*
-! ||ytimg.com*
 ||instreamvideo.ru*
 ||sibtel.adriver.ru*
 ||pub-eu.p.otm-r.com*
