@@ -251,6 +251,8 @@
 ||googleusercontent.com^
 ||googletagmanager.com^
 ||googleadservices.com^
+
+! Exception for youtube studio
 @@||studio.youtube.com^
 
 ||gtags.net^
