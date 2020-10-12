@@ -252,7 +252,6 @@
 ||googletagmanager.com^
 ||googleadservices.com^
 
-||gstatic.com^
 ||gtags.net^
 ||gumgum.com^
 ||gwmtracking.com^
