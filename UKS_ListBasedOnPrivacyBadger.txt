@@ -251,6 +251,7 @@
 ||googleusercontent.com^
 ||googletagmanager.com^
 ||googleadservices.com^
+@@||studio.youtube.com^
 
 ||gtags.net^
 ||gumgum.com^
