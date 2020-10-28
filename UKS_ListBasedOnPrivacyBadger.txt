@@ -76,7 +76,6 @@
 ||agkn.com^
 ||aidata.io^
 ||aj1713.online^
-||akamaihd.net^
 ||akamaized.net^
 ||alexametrics.com^
 ||alfasense.com^
