@@ -320,7 +320,6 @@
 ||kakao.com^
 ||kargo.com^
 ||keywee.co^
-||kinogram.best^
 ||klangoo.com^
 ||knet.cn^
 ||kompas.com^
