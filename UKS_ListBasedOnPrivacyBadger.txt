@@ -261,13 +261,6 @@
 ||googletagmanager.com^
 ||googleadservices.com^
 
-! Exception for youtube studio
-@@||studio.youtube.com^
-@@||ajax.googleapis.com^
-@@||apple.com^
-@@||privatbank.ua^
-@@||tumblr.com^
-
 ||prom.ua^$third-party
 ||gtags.net^
 ||gumgum.com^
