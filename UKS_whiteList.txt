@@ -1,9 +1,14 @@
-||gstatic.com^ !для работающего поиска в гугле
+! Что бы добавить сюда правило нужно сначала делать 2 собачки, 
+! а в конце $important что бы это правило обязательно было более приоритетным, чем блокировки
+! --------------------------------------------------------------------------------------------
+
+!для работающего поиска в гугле по картинках
+||gstatic.com^$important
 
 
 ! Для работающей youtube studio
-@@||studio.youtube.com^
-@@||ajax.googleapis.com^
-@@||apple.com^
-@@||privatbank.ua^
-@@||tumblr.com^
+@@||studio.youtube.com^$important
+@@||ajax.googleapis.com^$important
+@@||apple.com^$important
+@@||privatbank.ua^$important
+@@||tumblr.com^$important
