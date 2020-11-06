@@ -1,1 +1,9 @@
 ||gstatic.com^ !для работающего поиска в гугле
+
+
+! Для работающей youtube studio
+@@||studio.youtube.com^
+@@||ajax.googleapis.com^
+@@||apple.com^
+@@||privatbank.ua^
+@@||tumblr.com^
