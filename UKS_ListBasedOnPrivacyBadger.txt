@@ -583,3 +583,130 @@
 ||xspadvertising.com^
 ||yadro.ru^
 ||yahoo.co.jp^$third-party
+
+
+
+! //////////////////////////////////////////////////////////////////////////////////////////////////
+! OLD UKS_adBlockList_ru
+! //////////////////////////////////////////////////////////////////////////////////////////////////
+
+[Adblock Plus 2.0]
+! Title: UKS_adBlockList_ru
+! Homepage: https://github.com/ukushu/UKS_adBlockList_ru
+!
+! *** UKS_adBlockList_ru.txt ***
+! Expires: 1 days (update frequency)
+!
+! Please report any unblocked tracking or problems
+! https://github.com/ukushu/UKS_adBlockList_ru/issues
+
+
+
+||favorit.com.ua^
+||adspeed.net*
+||adriver.ru*
+||admixer.net*
+||bidswitch.net*
+||vsdcdn.com*
+||4736.in*
+||mtrcss.com*
+||vsdcdn.com*
+||mtrcss.com*
+||ggpht.com*
+||instreamvideo.ru*
+||otm-r.com*
+||parimatch.com*
+
+||sibnet.ru*
+###vjs-overlayclip-container-box
+###vjs-overlayclip-box
+##.vjs-overlayclip-box-close
+##.vjs-related-carousel-button
+###vjs-logobrand-image
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+!KODIK player AD!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
+||fop.5vul2bdy.store*
+||moevideo.biz*
+||moe.video*
+||playreplay.me*
+||playreplay.me*
+||aj1713.online*
+||vast.vihub.ru*
+
+||match.ads.betweendigital.com*
+||cache.betweendigital.com*
+||ads.betweendigital.com*
+||www.tns-counter.ru*
+
+||adhigh.net*
+||cdn.adhigh.net*
+
+||c.fqtag.com*
+||cdn.fqtag.com*
+||aux.fqtag.com*
+||fqtag.com*
+||vast-f11-de.adhigh.net*
+||bh.contextweb.com*
+||kodik.info/stats^
+||adhigh.net*
+!!!!!!!!!!!!!!!!!!!!!!!!
+!ENDOF KODIK player AD!!
+!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+!META player AD!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
+||acdn.meta.ua*
+||dlm16.meta.ua*
+##.preview-ban-wrapper
+###meta_code_video_embed
+##.vjs-title
+##.vjs-watermark-top-right
+###pl_adv_cont
+##.pl_adv_block
+###adsbyyottos
+##.adsbyyottos
+
+||v.ankunding.biz*
+||quitzon.net^
+||reichelcormier.bid*
+!!!!!!!!!!!!!!!!!!!!!!!!
+!END OF META player AD!!
+!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+||sg.bigmir.net^
+||stat.bigmir.net^
+||advertserve.com^
+||mycdn.me^
+||ngs.ru^
+||thruport.com^
+||focalink.com^
+||bravenet.com^
+||adtech.us^
+||adtech.de^
+||gemius.pl^
+||mediarotate.com^
+||adcounter.globeandmail.com^
+||adcounter.theglobeandmail.com^
+||bannerflow.com^
+||advertserve.com^
+||adriver.ru^
+||criteo.com^
+||rtb-media.ru^
+||recreativ.ru^
+||actionteaser.ru^
+||luxadv.com^
+||marketgid.com^
+||advaction.ru^
+||adocean.pl^
+||adblocksosal.ru*
+||vpipi.com*
+||vsexshop.ru*
+||uagde.adocean.pl^
+||vbbg.adocean.pl^
+||webgroundbg.adocean.pl^
